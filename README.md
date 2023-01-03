@@ -1,1 +1,1 @@
-# Video Editing
+# Video Editing & Animations
