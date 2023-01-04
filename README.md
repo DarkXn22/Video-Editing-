@@ -9,4 +9,8 @@ Small animated video
 
 https://user-images.githubusercontent.com/121748146/210523763-b575be0e-9064-44b1-9dbf-b8433be088b1.mp4
 
-https://video.wixstatic.com/video/b86e21_5a2e779ba1974a0f98881140a852bd85/720p/mp4/file.mp4
+### Visual Effects 
+Promotion video and cinematic effects 
+
+https://user-images.githubusercontent.com/121748146/210531899-a1dddf8f-2eaa-4f34-8355-8a40e58daca0.mp4
+https://user-images.githubusercontent.com/121748146/210532261-9e444971-decb-436d-b877-de32e11d8683.mp4
